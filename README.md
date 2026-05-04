@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Apon Das - Portfolio CV</title>
+<title>Mirajul Islam - Portfolio CV</title>
 
 <style>
   body {
@@ -45,11 +45,10 @@
     display: inline-block;
     background: #38bdf8;
     color: black;
-    padding: 6px 12px;
+    padding: 5px 10px;
     border-radius: 20px;
     margin-top: 10px;
-    font-size: 13px;
-    font-weight: bold;
+    font-size: 12px;
   }
 
   h2 {
@@ -64,10 +63,6 @@
   a {
     color: #38bdf8;
     text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
   }
 
   .contact {
@@ -89,7 +84,7 @@
 
   <!-- HEADER -->
   <div class="card header">
-    <h1>Apon Das</h1>
+    <h1>Mirajul Islam</h1>
     <p>Computer Science & Engineering Student</p>
     <div class="badge">Web Development Learner</div>
   </div>
@@ -98,12 +93,9 @@
   <div class="card">
     <h2>Contact</h2>
     <div class="contact">
-      📧 Email: apondas1327@gmail.com <br>
-      📞 Phone: 01644130129 <br>
-      💻 GitHub: 
-      <a href="https://github.com/apondas129" target="_blank">
-        github.com/apondas129
-      </a>
+      📧 Email: mirajmahin@gmail.com <br>
+      📞 Phone: 01700688055 <br>
+      💻 GitHub: <a href="#" target="_blank">Add Your GitHub Link</a>
     </div>
   </div>
 
@@ -111,9 +103,9 @@
   <div class="card">
     <h2>About Me</h2>
     <p>
-      I am Apon Das, a Computer Science and Engineering (CSE) student.
-      I am passionate about web development and enjoy building simple,
-      responsive, and user-friendly websites. I am continuously learning
+      I am a Computer Science and Engineering (CSE) student.
+      I am passionate about website development and enjoy creating simple,
+      responsive, and user-friendly web applications. I am continuously learning
       and improving my programming skills.
     </p>
   </div>
@@ -123,8 +115,8 @@
     <h2>Education</h2>
     <p>
       <b>BSc in Computer Science and Engineering (CSE)</b><br>
-      Leading University <br>
-      CGPA: 2.85
+      Your University Name <br>
+      CGPA: Your CGPA
     </p>
   </div>
 
@@ -144,10 +136,7 @@
   <!-- PROJECTS -->
   <div class="card">
     <h2>Projects</h2>
-    <p>
-      Currently working on improving my web development skills by building small projects.
-      More projects will be added soon.
-    </p>
+    <p>Currently focusing on learning and building web development projects.</p>
   </div>
 
   <!-- CERTIFICATIONS -->
@@ -164,13 +153,13 @@
     <h2>Languages</h2>
     <ul>
       <li>Bangla (Native)</li>
-      <li>English (Intermediate)</li>
+      <li>English (Basic/Intermediate)</li>
     </ul>
   </div>
 
   <!-- FOOTER -->
   <div class="footer">
-    © 2026 Apon Das | Portfolio CV
+    © 2026 Mirajul Islam | Portfolio CV
   </div>
 
 </div>
